@@ -16,7 +16,7 @@ public class DestinationHashGenerator {
 
     public static void main(String[] args) {
         if (args.length != 2) {
-            System.out.println("Usage: java -jar DestinationHashGenerator.jar 240343120094  C:\\Users\\tusha\\OneDrive\\Desktop\\test\\DestinationHash\\DestinationHash\\src\\main\\resources\\example.json");
+            System.out.println("Usage: java -jar DestinationHashGenerator.jar 240343120094 C:\\Users\\tusha\\OneDrive\\Desktop\\test\\DestinationHash\\DestinationHash\\src\\main\\resources\\example.json");
             return;
         }
 
